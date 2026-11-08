@@ -7,7 +7,7 @@
     {
       "name": "brannhost-ssh",
       "source": {
-        "repo": "https://github.com/Rafflie-CH/brannhost-ubuntu-ssh",
+        "repo": "https://github.com/gibranadzhar/BrannHOST-Ubuntu-SSH",
         "branch": "main"
       },
       "build": {
